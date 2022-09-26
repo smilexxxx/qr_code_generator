@@ -64,4 +64,9 @@ button, a {
 		height: 240px;
 		margin: 2rem auto;
 	}
+
+	input {
+		width: 250px;
+		max-width: 320px;
+	}
 }
